@@ -19,7 +19,7 @@ Please visit https://patience.onrender.com/
 
     </td>
     <td>    
-      <a href="https://seniorcoder72.github.io"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
+      <a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
       https://trademarktoday-nextjs.vercel.app <br/>
       https://trademarktoday-nextjs-rbxk.vercel.app
     </td>
@@ -30,7 +30,7 @@ Please visit https://patience.onrender.com/
 # @AuWaiLun, Welcome!
   
 
-<a href="https://github.com/seniorcoder72" target="_blank">
+<a href="http://au-portfolio.great-site.net" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
@@ -61,7 +61,7 @@ Please visit https://patience.onrender.com/
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/seniorcoder72)  
+- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/auwailun)  
   
 
 - 🌱 I’m currently building business websites using Next.js, Typescript, Tailwind CSS.  
