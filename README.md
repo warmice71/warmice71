@@ -60,7 +60,24 @@ Please visit https://patience.onrender.com/
 
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
-
+✅ Preferred PHP frameworks
+✔Laravel, ✔Codeigniter, ✔Sympony, ✔Yii
+✅ Preferred Python frameworks
+✔Python, ✔Django, ✔Flask
+✅ Preferred JS frameworks
+✔TypeScript, ✔Next.js, ✔React.js, ✔Vue.js
+✅ Preferred style frameworks
+✔Tailwind CSS, ✔Bootstrap, ✔Material-UI
+✅ Database options
+✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL
+✅ Preferred CMS Platform
+✔WordPress, ✔Shopify, ✔WIx, ✔Squarespace, ✔bubble.io
+✅ Web hosting options
+✔ Azure service
+✔ AWS Services - EC2, S3, and Lambda
+✔ cPanel service, ✔GoDaddy
+✅ Payment gateway integration
+✔Stripe, ✔PayPal
 - 🔭 I’m currently working on [Business Website Deveopment](https://github.com/auwailun)  
   
 
