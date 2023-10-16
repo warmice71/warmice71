@@ -6,7 +6,7 @@ Please visit https://patience.onrender.com/
   <tr>
     <td>
       
-- [@seniorcoder72, Welcome!](#seniorcoder72-welcome)
+- [@AuWaiLun, Welcome!](#AuWaiLun-welcome)
   - [My personal values and work ethic](#my-personal-values-and-work-ethic)
   - [Rapidfire](#rapidfire)
   - [Languages and Tools](#languages-and-tools)
@@ -27,7 +27,7 @@ Please visit https://patience.onrender.com/
 </table>
 
 
-# @seniorcoder72, Welcome!
+# @AuWaiLun, Welcome!
   
 
 <a href="https://github.com/seniorcoder72" target="_blank">
