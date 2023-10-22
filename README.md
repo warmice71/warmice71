@@ -1,7 +1,7 @@
 Please visit https://patience.onrender.com/
 
 To comtact me.
-awl19950228@gmail.com
+sjh19990228@gmail.com
 
 ![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
 
@@ -9,7 +9,7 @@ awl19950228@gmail.com
   <tr>
     <td>
       
-- [@AuWaiLun, Welcome!](#AuWaiLun-welcome)
+- [@Dmitry, Welcome!](#AuWaiLun-welcome)
   - [My personal values and work ethic](#my-personal-values-and-work-ethic)
   - [Rapidfire](#rapidfire)
   - [Languages and Tools](#languages-and-tools)
