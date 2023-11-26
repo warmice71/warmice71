@@ -9,7 +9,7 @@ awl19950228@gmail.com
   <tr>
     <td>
       
-- [@Dmitry, Welcome!](#AuWaiLun-welcome)
+- [Welcome!](#AuWaiLun-welcome)
   - [My personal values and work ethic](#my-personal-values-and-work-ethic)
   - [Rapidfire](#rapidfire)
   - [Languages and Tools](#languages-and-tools)
