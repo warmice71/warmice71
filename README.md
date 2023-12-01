@@ -272,7 +272,7 @@ https://acetduiservicesurvey.com/
        
 ✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask
           
-✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, ✔React.js, ✔Vue.js
+✨ Preferred JS frameworks   ✔TypeScript, ✔Next.js, Nuxt.js, ✔React.js, ✔Vue.js
          
 ✨ Preferred style frameworks    ✔Tailwind CSS, ✔Bootstrap, ✔Material-UI
          
