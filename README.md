@@ -211,10 +211,10 @@
 <a href="https://github.com/LessonDump"><img src="./assets/lessondump.png" alt="LessonDump" height="50" title="Lesson Dump"></a>
 
 
-//Please visit https://patience.onrender.com/
+
 
 To contact me.
-//awl19950228@gmail.com
+
 
 ![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
 
